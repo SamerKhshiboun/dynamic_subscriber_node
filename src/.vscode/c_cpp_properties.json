@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/administrator/ros2_jazzy_private/install/realsense2_camera/include/**",
+        "/home/administrator/ros2_jazzy_private/install/realsense2_camera_msgs/include/**",
+        "/opt/ros/jazzy/include/**",
+        "/home/administrator/ros2_jazzy_private/src/dynamic_node_subscriber/include/**",
+        "/home/administrator/ros2_jazzy_private/src/realsense-ros-private/realsense2_camera/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
